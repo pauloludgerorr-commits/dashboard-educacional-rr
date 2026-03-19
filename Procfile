@@ -1,1 +1,1 @@
-Procfileweb: gunicorn dashboard:server
+web: gunicorn app:server

@@ -1,22 +1,23 @@
-# Ambiente virtual
-venv/
-
 # Python
 __pycache__/
 *.pyc
 
-# Dados grandes (Censo)
-*.csv
-*.xlsx
+# Ambiente virtual
+venv/
 
-# Configurações
-.env
-
-# Sistema
-.DS_Store
-Thumbs.db
-
-dist/
+# Build
 build/
+dist/
+
+# Executáveis
 *.exe
 *.pkg
+
+# Dados grandes
+*.csv
+*.xlsx
+*.zip
+
+# Sistema
+.vscode/
+.env
