@@ -14,7 +14,7 @@ dist/
 *.pkg
 
 # Dados grandes
-*.csv
+#*.csv
 *.xlsx
 *.zip
 
